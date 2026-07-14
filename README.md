@@ -16,13 +16,3 @@ source ~/e906-setup
 # 4. 运行 Hello World
 make runcase CASE=hello_world
 
-预期输出：
-Hello Friend!
-Welcome to T-HEAD World!
-a is 1!
-b is 2!
-c is 0!
-!!! PASS !!!after ASM c is changed to 3!
-**********************************************
-*    simulation finished successfully        *
-**********************************************
